@@ -11,8 +11,20 @@
       "bottom": 3,
       "left": 3
       
-    }
+      }
     },
+    "display":{
+    "separator": ":",
+
+
+    "color": {
+      "title": "#ff79c6",
+      "keys": "#7aa2f7",
+      
+      "separator": "#7aa2f7"
+    },
+    "brightColor": true
+  },
 
     "modules": [
         "title",
@@ -30,7 +42,6 @@
         "theme",
         "icons",
         "font",
-        "cursor",
         "terminal",
         "terminalfont",
         "cpu",
